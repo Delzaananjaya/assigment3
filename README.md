@@ -1,6 +1,6 @@
 # Assigment3
 
-# React-Portfolio
+# React-Portofolio
 
 Nama : Delza Ananjaya.\
 Kode Peserta : RCTN-KS03-007.\
