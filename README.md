@@ -1,6 +1,6 @@
 # Assigment3
 
-# Getting Started with Create React App
+# React-Portfolio
 
 Nama : Delza Ananjaya.\
 Kode Peserta : RCTN-KS03-007.\
